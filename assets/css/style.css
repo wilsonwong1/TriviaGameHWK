@@ -1,0 +1,21 @@
+/* main {
+    width: 80%;
+    position: relative;
+    height: 100vh;
+    background-color: yellow;
+    margin-left: 10%;
+    margin-right: 10%;
+    float: center;
+    /* transform: translate(-50%,-50%); */
+}
+body{
+    background-size: cover;
+    background-position: center;
+    background-image: url('../images/mugiwara.jpg');
+    position: relative;
+}
+
+
+#submit:hover{
+    background-color: #38a;
+} */
